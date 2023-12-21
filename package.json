@@ -1,0 +1,12 @@
+{
+  "name": "npm_package_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "textcensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
